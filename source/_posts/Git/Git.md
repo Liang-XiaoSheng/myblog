@@ -322,6 +322,7 @@ $ git archive
 
 ```bash
 $ ssh-keygen -t rsa -C "youremail@example.com"
+$ ssh-keygen -t rsa -f "filename"                 # 创建多个ssh key可以加filename区分，不加会覆盖默认的id_rsa.pub文件
 ```
 
 如果一切顺利的话，可以在用户主目录里找到.ssh目录，里面有id_rsa和id_rsa.pub两个文件，这两个就是SSH Key的秘钥对，id_rsa是私钥，不能泄露出去，id_rsa.pub是公钥，可以放心地告诉任何人。
