@@ -1,3 +1,11 @@
+---
+title: Ubuntu
+date: 2023-03-25
+updated: 2023-03-25
+tags: Linux
+categories: Linux/Unix
+---
+
 # 软件包管理器
 
 ## DPKG

@@ -1,4 +1,10 @@
-[toc]
+---
+title: Linux
+date: 2023-03-25
+updated: 2023-03-25
+tags: Linux
+categories: Linux/Unix
+---
 
 # 基本命令
 
